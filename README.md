@@ -15,11 +15,14 @@ The design of the page and its associated css are free to use.
 
 #### Page Start and Process
 
-This page will begin construction on August 21, 2024. A basic html outline with needed placeholders will be completed first. A css
+This page will begin construction on August 21, 2024. A basic html
+outline with needed placeholders will be completed first. A css
 file will be built next to arrange the page per the expected design
 outcome image provided by The Odin Project. Images will be added
 after the page meets the expected design outcome.
 
 #### Page Completion
 
-TBD - This section will be updated when the page is completed.
+Version 1 completed on 8/22/24. This may be the final version
+unless future assignments include updating and/or changing this
+page.
